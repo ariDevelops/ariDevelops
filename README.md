@@ -2,7 +2,7 @@
 
 <div>  
   <img  src="https://github-readme-stats.vercel.app/api?username=ariDevelops&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariDevelops&layout=compact&langs_count=16&theme=holi"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariDevelops&layout=compact&langs_count=5&theme=holi"/>
 </div>
 <br
 
