@@ -8,7 +8,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,perl,html,bash,sqlite"/>
+    <img src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor">
+    <img src="https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor">
+    <img src="https://skillicons.dev/icons?i=sqlite"/>
            <img src="https://icongr.am/devicon/android-original.svg?size=50&color=currentColor">          
   </a>
 </p>
