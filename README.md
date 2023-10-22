@@ -8,15 +8,20 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=55&color=currentColor">
-    <img src="https://icongr.am/devicon/css3-plain-wordmark.svg?size=55&color=1c71d8">
-    <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=000000">
-    <img src="https://skillicons.dev/icons?i=perl"/>
-    <img src="assets/img/LuaLang.png">
-            <img src="https://skillicons.dev/icons?i=sqlite"/>
-        <img src="assets/img/solarBare.png">
-    <img src="https://icongr.am/devicon/android-plain-wordmark.svg?size=50&color=8ff0a4">
-                        <img src="assets/img/lvim.svg">
+    <img src="https://icongr.am/devicon/linux-original.svg?size=40&color=000000">  
+    <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=ffffff">  
+   <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=ffffff"> 
+      <!--  <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=45&color=8000ff"> -->
+    <img src="https://icongr.am/devicon/javascript-original.svg?size=45&color=000000">
+   <!-- <img src="https://icongr.am/devicon/react-original.svg?size=46&color=8000ff">  -->
+<!--    <img src="assets/img/LuaLang.png"> -->
+             <!--           <img src="assets/img/lvim.svg"> -->
+        <img src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor"> 
+      <!--  <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=50&color=008000"> -->
+    <!--    <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=50&color=000000">  -->
+        <img src="https://skillicons.dev/icons?i=perl"/>
+        <img src="https://skillicons.dev/icons?i=sqlite"/>
+      <!--  <img src="https://icongr.am/devicon/electron-original.svg?size=50&color=000000">  -->
   </a>
 </p>
 
