@@ -11,6 +11,7 @@
             <img src="https://icongr.am/devicon/linux-original.svg?size=40&color=000000">
     <img src="https://icongr.am/devicon/html5-original.svg?size=50&color=ffffff">  
    <img src="https://icongr.am/devicon/css3-original.svg?size=50&color=ffffff"> 
+<img src="https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor"> 
     <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=000000">
      <!--     <img src="https://icongr.am/devicon/electron-original.svg?size=50&color=000000"> 
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width=55 height=55  />
