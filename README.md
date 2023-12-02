@@ -18,6 +18,7 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width=50 height=50 /> 
     -->
         <img src="https://skillicons.dev/icons?i=perl"/>
+        <img src="assets/img/mojo.png"> 
                                    <!-- <img src="https://icongr.am/devicon/express-original.svg?size=45&color=33d17a"> -->
         <img src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor">  
          <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width=50 height=50 />
