@@ -8,26 +8,20 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-            <img src="https://icongr.am/devicon/linux-original.svg?size=40&color=000000">
-    <img src="https://icongr.am/devicon/html5-original.svg?size=50&color=ffffff">  
-   <img src="https://icongr.am/devicon/css3-original.svg?size=50&color=ffffff">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" title="bulma css" width=45 height=45  />
-<img src="https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor"> 
-    <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=000000">
-     <!--     <img src="https://icongr.am/devicon/electron-original.svg?size=50&color=000000"> 
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width=55 height=55  />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width=50 height=50 /> 
+      <!--      <img src="https://icongr.am/devicon/linux-original.svg?size=40&color=000000"> -->
+    <img src="https://icongr.am/devicon/html5-original.svg?size=40&color=ffffff">  
+   <img src="https://icongr.am/devicon/css3-original.svg?size=40&color=ffffff">
+                <img src="https://skillicons.dev/icons?i=sass" width=40 height=40/>
+   <!--     <img src="https://icongr.am/devicon/angularjs-plain.svg?size=40&color=e01b24">
+        <img src="https://icongr.am/devicon/typescript-original.svg?size=40&color=000000">
     -->
-        <img src="https://skillicons.dev/icons?i=perl"/>
-        <img src="assets/img/mojo.png"> 
-                                   <!-- <img src="https://icongr.am/devicon/express-original.svg?size=45&color=33d17a"> -->
-        <img src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor">  
-         <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width=50 height=50 />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width=70 height=70 /> 
-      --> 
-<!--    <img src="assets/img/LuaLang.png"> -->
-             <!--           <img src="assets/img/lvim.svg"> -->
-    <!--    <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=50&color=000000">  -->
+    <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=000000">
+            <img src="https://icongr.am/devicon/webpack-original.svg?size=40&color=000000">
+        <img src="https://icongr.am/devicon/electron-original.svg?size=40&color=000000"> 
+         <!--   <img src="https://skillicons.dev/icons?i=cpp" width=40 height=40/> -->
+        <img src="https://skillicons.dev/icons?i=perl" width=40 height=40/>
+        <img src="assets/img/LuaLang.png" width=40 height=40> 
+
          
   </a>
 </p>
