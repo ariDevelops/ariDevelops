@@ -1,4 +1,6 @@
-## Olá caro amigo dev, Bem vindo!
+<h2>
+Hello everyone, feel free, check out my repositories and stay hydrated &#129380  &#128540
+</h2>
 
 <div>  
   <img  src="https://github-readme-stats.vercel.app/api?username=ariDevelops&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
