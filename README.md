@@ -25,11 +25,12 @@ Hello everyone, feel free, check out my repositories and stay hydrated &#129380 
         <img src="https://icongr.am/devicon/electron-original.svg?size=40&color=000000" alt="electronJS">
          <!--   <img src="https://skillicons.dev/icons?i=cpp" width=40 height=40 alt="C++ programming language"/> -->
         <!--          <img src="https://icongr.am/devicon/csharp-original.svg?size=42&color=3584e4"> -->
-            <!--           <img src="https://icongr.am/devicon/c-original.svg?size=42&color=3584e4">    -->
              <!--        <img src="https://icongr.am/devicon/cplusplus-original.svg?size=42&color=3584e4"> -->   
     <img src="https://skillicons.dev/icons?i=perl" width=40 height=40 alt="Perl programming language"/>
         <img src="assets/img/LuaLang.png" width=40 height=40 alt="Lua programming language">
                        <img src="assets/img/assembly.png" width=43 height=43 alt="Assembly programming language">
+                           <img src="https://icongr.am/devicon/c-original.svg?size=42&color=3584e4">    
+
   </a>
 </p>
 
